@@ -16,7 +16,7 @@ A confident, and reliable frontend & backend web developer with an understanding
 An enthusiastic Full Stack web developer looking for my first role as a Software Developer.
 
 
-###Frontend
+## Frontend
 
 ![JavaScript](js.png)
 
