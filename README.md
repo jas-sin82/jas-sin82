@@ -18,7 +18,7 @@ An enthusiastic Full Stack web developer looking for my first role as a Software
 
 ## Frontend
 
-![JavaScript](Js.png) ![HTML](HTML.png)  ![CSS](Css.png)  ![Bootstrap](Bootstrap1.png)  ![JQuery](jquery1.png)
+![JavaScript](Js.png) ![HTML](HTML.png)  ![CSS](Css.png)  ![Bootstrap](Bootstrap1.png)  ![JQuery](jquery1.png)  ![React](download1.png)
 
 <!--
 **jas-sin82/jas-sin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
