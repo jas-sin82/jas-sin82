@@ -18,7 +18,7 @@ An enthusiastic Full Stack web developer looking for my first role as a Software
 
 ###Frontend
 
-![screenshot ] (js.png)
+![JavaScript](js.png)
 
 <!--
 **jas-sin82/jas-sin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
