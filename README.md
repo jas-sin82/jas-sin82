@@ -15,6 +15,11 @@ A confident, and reliable frontend & backend web developer with an understanding
 
 An enthusiastic Full Stack web developer looking for my first role as a Software Developer.
 
+
+###Frontend
+
+![screenshot ] (js.png)
+
 <!--
 **jas-sin82/jas-sin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
