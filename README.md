@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-#### I am Jasvir Singh ! Software Developer graduate from Code Institute Ireland Diploma in Software Development !
+#### I am Software Developer! Graduate from Code Institute Ireland!
 
 
 A confident, and reliable frontend & backend web developer with an understanding of frontend & backend languages including HTML5 | CSS3 | JavaScript | React | jQuery | Node.js| MongoDB, Git, GitHub, Gitpod and Heroku and a full understanding of UX and UI.
@@ -30,8 +30,8 @@ An enthusiastic Full Stack web developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Frontend & Backend projects
+- 🌱 I’m currently learning ...Node.js and Mongodb
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
